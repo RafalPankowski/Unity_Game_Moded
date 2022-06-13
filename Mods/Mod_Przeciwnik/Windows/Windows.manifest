@@ -1,0 +1,11 @@
+ManifestFileVersion: 0
+CRC: 2627975122
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: mod_przeciwnik.assets
+      Dependencies: {}
+    Info_1:
+      Name: mod_przeciwnik.scenes
+      Dependencies:
+        Dependency_0: mod_przeciwnik.assets

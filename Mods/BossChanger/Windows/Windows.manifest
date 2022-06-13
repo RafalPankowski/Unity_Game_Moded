@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 3517811904
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: bosschanger.scenes
+      Dependencies: {}

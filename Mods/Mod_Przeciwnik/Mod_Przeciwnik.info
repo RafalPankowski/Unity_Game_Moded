@@ -1,0 +1,10 @@
+{
+    "_name": "Mod_Przeciwnik",
+    "_author": "Rafal Pankowski",
+    "_description": "",
+    "_version": "1",
+    "_unityVersion": "2021.3.4f1",
+    "_platforms": 1,
+    "_content": 7,
+    "_isEnabled": true
+}

@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 3252733704
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c689d85029dafa22f6be89cbdac2e94b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 028d65a820da93abff5ae58f2ea1025c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 104
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1195704909, guid: 166a6b0c7f5a724468fbec98007de63f, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 157
+  Script: {instanceID: 0}
+- Class: 196
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Scenes/BossChanger-SampleScene.unity
+Dependencies: []
